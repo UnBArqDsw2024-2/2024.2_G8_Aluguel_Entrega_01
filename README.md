@@ -32,15 +32,15 @@ O HostHub é uma plataforma voltada à promoção de imóveis para aluguel e ven
 ## Screenshots da Primeira Entrega
 
 <div style="text-align: center;">
-    <img src="/docs/images/mapa_mental.v2.jpg" alt="Mapa Mental" width="700px">
+    <img src="images/mapa_mental.v2.jpg" alt="Mapa Mental" width="700px">
 </div>
 
 <div style="text-align: center;">
-    <img src="/docs/images/BPMN_tema_v2.png" alt="Mapa Mental" width="700px">
+    <img src="images/BPMN_tema_v2.png" alt="Mapa Mental" width="700px">
 </div>
 
 <div style="text-align: center;">
-    <img src="/docs/images/BPMN_Scrum.jpg" alt="Mapa Mental" width="1000px">
+    <img src="images/BPMN_Scrum.jpg" alt="Mapa Mental" width="1000px">
 </div>
 
 ## Tecnologia

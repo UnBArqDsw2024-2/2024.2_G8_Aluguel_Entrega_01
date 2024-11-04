@@ -7,7 +7,7 @@ Os mapas mentais são ferramentas visuais que facilitam a organização e compre
 ## Imagem
 
 <div style="text-align: center;">
-    <img src="/docs/images/mapa_mental.v2.jpg" alt="Mapa Mental" width="700px">
+    <img src="images/mapa_mental.v2.jpg" alt="Mapa Mental" width="700px">
 </div>
 
 Autor: [Lucas Macedo](https://github.com/Luckx98), [Ester Lino](https://github.com/esteerlino) e [Gabriel Bertolazzi](https://github.com/Bertolazi)
