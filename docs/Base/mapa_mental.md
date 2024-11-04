@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Os mapas mentais são ferramentas visuais que facilitam a organização e compreensão de requisitos em projetos, como os [Usuários](./lexicos.md?id=l04-usuário) e necessidades dos [Imóveis](./lexicos.md?id=l02-imóvel), e outras funcionalidades, como [Cadastro de Usuário](./lexicos.md?id=l07-cadastro-de-usuário) e [Reserva](./lexicos.md?id=l09-reserva). Eles permitem uma representação clara das inter-relações entre os requisitos, ajudando a equipe a identificar prioridades e dependências. Essa técnica sintetiza informações complexas em um formato acessível, promovendo uma comunicação eficiente entre os membros da equipe e stakeholders. Ao facilitar a visualização das funcionalidades necessárias, os mapas mentais contribuem significativamente para o sucesso do desenvolvimento, assegurando que as necessidades dos usuários sejam atendidas de forma eficaz.
+Os mapas mentais são ferramentas visuais que facilitam a organização e compreensão de requisitos em projetos, como os [Usuários](../Base/lexicos.md?id=l04-usuário) e necessidades dos [Imóveis](../Base/lexicos.md?id=l02-imóvel), e outras funcionalidades, como [Cadastro de Usuário](../Base/lexicos.md?id=l07-cadastro-de-usuário) e [Reserva](../Base/lexicos.md?id=l09-reserva). Eles permitem uma representação clara das inter-relações entre os requisitos, ajudando a equipe a identificar prioridades e dependências. Essa técnica sintetiza informações complexas em um formato acessível, promovendo uma comunicação eficiente entre os membros da equipe e stakeholders. Ao facilitar a visualização das funcionalidades necessárias, os mapas mentais contribuem significativamente para o sucesso do desenvolvimento, assegurando que as necessidades dos usuários sejam atendidas de forma eficaz.
 
 ## Imagem
 
