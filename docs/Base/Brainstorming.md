@@ -44,16 +44,6 @@ Para realizar o brainstorming, utilizamos o Teams como ferramenta de comunicaç�
 </div>
 <br>
 
-### Vídeo
-
-<div align="center">
-<video width="768" height="432" controls>
-  <source src="URL_DO_VIDEO" type="video/mp4">
-  Seu navegador não suporta a exibição do vídeo.
-</video>
-<div align="center">Figura 2 - Vídeo</div>
-</div>
-
 ### Requisitos Elicitados
 
 #### Requisitos Funcionais (RF)
