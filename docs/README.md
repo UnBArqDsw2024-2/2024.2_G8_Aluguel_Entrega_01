@@ -1,41 +1,57 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
+# <img src="images/HostHub.png" alt="HostHub" width="60px" style="vertical-align: middle;"> HostHub
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2024.2_G1_Jogo_Entrega_01*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 08<br>
 **Entrega**: 01<br>
 
 ## Alunos
+
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 211061350  | Alexandre de Santana Beck           |
+| 180098080  | Arthur Carneiro Trindade            |
+| 200054333  | Arthur Gabriel Lima Gomes           |
+| 200015753  | Caio Berg Carlos Leite              |
+| 202063201  | Ester Flores Lino da Silva          |
+| 202023663  | Gabriel Basto Bertolazi             |
+| 190087501  | Gabriel Marcolino Rodrigues         |
+| 190028475  | Gabriela Tiago de Araujo            |
+| 190091720  | Lucas Macedo Barboza                |
+| 202023968  | Miguel Moreira da Silva de Oliveira |
+| 200062620  | Pedro Augusto Dourado Izarias       |
+| 211029540  | Pedro Sena Barbosa Holtz Yen        |
+| 190134810  | Shaine Aparecida Cardoso de Oliveira|
+| 200028154  | Thiago Ribeiro Freitas              |
 
-## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+## Sobre
+
+Este repositório foi criado para documentar os artefatos e resultados do projeto HostHub, desenvolvido pelo Grupo 08 na disciplina de Arquitetura e Desenho de Software da Universidade de Brasília (UnB-FCTE) no semestre 2024.2.
+
+O HostHub é uma plataforma voltada à promoção de imóveis para aluguel e venda. A plataforma permite que usuários filtrem as buscas com base em localização, tipo de imóvel, faixa de preço e outras preferências, facilitando a conexão entre proprietários e potenciais locatários ou compradores.
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+<div style="text-align: center;">
+    <img src="/docs/images/mapa_mental.v2.jpg" alt="Mapa Mental" width="700px">
+</div>
+
+<div style="text-align: center;">
+    <img src="/docs/images/BPMN_tema_v2.png" alt="Mapa Mental" width="700px">
+</div>
+
+<div style="text-align: center;">
+    <img src="/docs/images/BPMN_Scrum.jpg" alt="Mapa Mental" width="1000px">
+</div>
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
+(X) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+## Histórico de Versão
 
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+| Versão |    Data    |         Descrição          |  Autor(es)  |
+| :----: | :--------: | :------------------------: | :---------: |
+| `1.0`  | 04/11/2024 | Edição das informações da página home | [Ester Lino](https://github.com/esteerlino) |

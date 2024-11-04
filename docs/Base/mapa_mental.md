@@ -1,4 +1,4 @@
-# Mapa mental 
+# Mapa mental
 
 ## Introdução
 
@@ -6,12 +6,11 @@ Os mapas mentais são ferramentas visuais que facilitam a organização e compre
 
 ## Imagem
 
-<div>
-
-![Mapa mental](/images/mapa_mental.v2.jpg)        
-* Feito pelos alunos
-
+<div style="text-align: center;">
+    <img src="/docs/images/mapa_mental.v2.jpg" alt="Mapa Mental" width="700px">
 </div>
+
+Autor: [Lucas Macedo](https://github.com/Luckx98), [Ester Lino](https://github.com/esteerlino) e [Gabriel Bertolazzi](https://github.com/Bertolazi)
 
 ## Navegação
 
@@ -19,7 +18,7 @@ Os mapas mentais são ferramentas visuais que facilitam a organização e compre
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLK84b0g=/?moveToViewport=-3122,-1548,4072,1842&embedId=267232619438" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 </div>
 
-## Referências 
+## Referências
 
 * FIA. "Mapas mentais: benefícios, como construir, dicas e modelos." Disponível em: https://fia.com.br/blog/mapas-mentais-beneficios-como-construir-dicas-e-modelos/
 * Lucidchart. "Mapa Mental: o que é e como fazer [com Vídeo e Exemplos]." Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-mapa-mental-e-como-fazer
