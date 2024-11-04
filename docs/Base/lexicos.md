@@ -352,14 +352,13 @@ Essa estrutura permite que o LAL capture não apenas as definições dos termos,
 | **Noção**         | Usuário responsável pela administração de imóveis anunciados                                                 |
 | **Impacto**       | Publica e gerencia os imóveis disponibilizados na plataforma                                                 |
 
-
 ## 4. Referências
 
-> Leite, J. C. S. do P., & Franco, A. P. M. (1990). "O Uso de Hipertexto na Elicitação de Linguagens de Aplicação". Anais do IV Simpósio Brasileiro de Engenharia de Software. Disponível em: https://sol.sbc.org.br/index.php/sbes/article/view/24172
+[1] Leite, J. C. S. do P., & Franco, A. P. M. (1990). "O Uso de Hipertexto na Elicitação de Linguagens de Aplicação". Anais do IV Simpósio Brasileiro de Engenharia de Software. Disponível em: https://sol.sbc.org.br/index.php/sbes/article/view/24172
 
-> SERRANO, Milene. DSW-BASE - Glossário Léxico. Apresentação do Power Point.
+[2] SERRANO, Milene. DSW-BASE - Glossário Léxico. Apresentação do Power Point.
 
-## 5. Controle de Versionamento 
+## 5. Controle de Versionamento
 
 | Versão | Data da alteração |            Alteração             |                       Responsável                       |
 | :----: | :---------------: | :------------------------------: | :-----------------------------------------------------: |
