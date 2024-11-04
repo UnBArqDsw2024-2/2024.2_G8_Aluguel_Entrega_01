@@ -8,7 +8,7 @@ Os mapas mentais são ferramentas visuais que facilitam a organização e compre
 
 <div>
 
-![Mapa mental](docs/imgs/mapa_mental.jpg)        
+![Mapa mental](../images/mapa_mental.v2.jpg)        
 * Feito pelos alunos
 
 </div>
@@ -16,7 +16,7 @@ Os mapas mentais são ferramentas visuais que facilitam a organização e compre
 ## Navegação
 
 <div>
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLK84b0g=/?moveToViewport=-1086,-761,2767,1271&embedId=885933286878" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLK84b0g=/?moveToViewport=-3122,-1548,4072,1842&embedId=267232619438" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 </div>
 
 ## Referências 
