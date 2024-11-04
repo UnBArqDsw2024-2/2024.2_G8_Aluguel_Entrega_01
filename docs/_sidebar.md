@@ -13,3 +13,4 @@
     - [1.6. 5w2h](Base/5w2h.md)
     - [1.7. Protótipo](Base/prototipo.md)
     - [1.8. Mapa Mental](Base/mapa_mental.md)
+    - [1.9 Léxicos](Base/lexicos.md)
