@@ -29,7 +29,7 @@ O protótipo resultante oferece uma visão geral e inicial das funcionalidades p
 
 ## Histórico de Versão
 
-| Versão | Data da alteração |      Alteração       |                Responsável                | Revisor |
-| :----: | :---------------: | :------------------: | :---------------------------------------: | :-----: |
-|  1.0   |    03/11/2024     | Criação do documento | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Lucas Macedo](https://github.com/Luckx98) |         |
-|  1.1   |    04/11/2024     | Adição de links para léxicos | [Miguel Moreira](https://github.com/EhOMiguel), [Arthur Trindade](https://github.com/trindadea) |         |
+| Versão | Data da alteração |      Alteração       |                Responsável                |
+| :----: | :---------------: | :------------------: | :---------------------------------------: |
+|  1.0   |    03/11/2024     | Criação do documento | [Arthur Gabriel](https://github.com/ArthurGabrieel) e [Lucas Macedo](https://github.com/Luckx98) |
+|  1.1   |    04/11/2024     | Adição de links para léxicos | [Miguel Moreira](https://github.com/EhOMiguel), [Arthur Trindade](https://github.com/trindadea) |

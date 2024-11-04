@@ -85,6 +85,6 @@ Para o desenvolvimento da plataforma, consideramos as seguintes tecnologias:
 
 ## Histórico de Versão
 
-| Versão | Data da alteração |      Alteração       |                 Responsável                  |                   Revisor                    | Data de revisão |
-| :----: | :---------------: | :------------------: | :------------------------------------------: | :------------------------------------------: | :-------------: |
-|  1.0   |    03/11/2024     | Criação do documento | [Alexandre Beck](https://github.com/zzzBECK) | [Caio Berg](https://github.com/Caio-bergbjj) |   03/11/2024    |
+| Versão | Data da alteração |      Alteração       |                 Responsável                  |
+| :----: | :---------------: | :------------------: | :------------------------------------------: |
+|  1.0   |    03/11/2024     | Criação do documento | [Alexandre Beck](https://github.com/zzzBECK), [Caio Berg](https://github.com/Caio-bergbjj) |

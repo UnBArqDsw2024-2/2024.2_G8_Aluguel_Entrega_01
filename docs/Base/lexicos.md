@@ -361,6 +361,6 @@ Essa estrutura permite que o LAL capture não apenas as definições dos termos,
 
 ## 5. Controle de Versionamento 
 
-| Versão | Data da alteração |            Alteração             |                       Responsável                       |                         Revisor                         |
-| :----: | :---------------: | :------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-|  1.0   |    03/11/2024     |       Criação do artefato e adição de léxicos       |    [Arthur Trindade](https://github.com/trindadea), [Miguel Moreira](https://github.com/EhOMiguel)     |    |
+| Versão | Data da alteração |            Alteração             |                       Responsável                       |
+| :----: | :---------------: | :------------------------------: | :-----------------------------------------------------: |
+|  1.0   |    03/11/2024     |       Criação do artefato e adição de léxicos       |    [Arthur Trindade](https://github.com/trindadea), [Miguel Moreira](https://github.com/EhOMiguel)     |

@@ -28,7 +28,7 @@ Os mapas mentais são ferramentas visuais que facilitam a organização e compre
 
 ## Histórico de versão
 
-| Versão |    Data    |           Descrição           |                                                            Autor(es)                                                            | Revisor |
-| :----: | :--------: | :---------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-----: |
-| `1.0`  | 02/11/2024 | Criação do artefato Mapa mental | [Lucas Macedo](https://github.com/Luckx98), [Ester Lino](https://github.com/esteerlino), [Gabriel Bertolazzi](https://github.com/Bertolazi) |         |
-| `1.1`  | 04/11/2024 | Lincagem de palavras aos léxicos      | [Miguel Moreira](https://github.com/EhOMiguel), [Arthur Trindade](https://github.com/trindadea)                                 |         |
+| Versão |    Data    |           Descrição           |     Autor(es)  |
+| :----: | :--------: | :---------------------------: | :------------: | 
+| `1.0`  | 02/11/2024 | Criação do artefato Mapa mental | [Lucas Macedo](https://github.com/Luckx98), [Ester Lino](https://github.com/esteerlino), [Gabriel Bertolazzi](https://github.com/Bertolazi) |
+| `1.1`  | 04/11/2024 | Lincagem de palavras aos léxicos      | [Miguel Moreira](https://github.com/EhOMiguel), [Arthur Trindade](https://github.com/trindadea)                                 |
