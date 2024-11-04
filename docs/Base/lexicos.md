@@ -352,14 +352,6 @@ Essa estrutura permite que o LAL capture não apenas as definições dos termos,
 | **Noção**         | Usuário responsável pela administração de imóveis anunciados                                                 |
 | **Impacto**       | Publica e gerencia os imóveis disponibilizados na plataforma                                                 |
 
-### L37 - Publicação
-
-| Léxico            | Publicação                                                                                                   |
-| ----------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Classificação** | Ação                                                                                                         |
-| **Sinônimos**     | Divulgação                                                                                                   |
-| **Noção**         | Ato de tornar o anúncio visível na plataforma                                                                |
-| **Impacto**       | Permite ao imóvel ser visualizado e acessado pelos usuários                                                  |
 
 ## 4. Referências
 
